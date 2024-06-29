@@ -1,10 +1,15 @@
 # CODSOFT
 my codsoft internship projects
+
 TASK 1
-MOVIE GENRE CLASSIFICATION  DATASET CLICK HERE
+MOVIE GENRE CLASSIFICATION  DATASET CLICK HERE -https://www.kaggle.com/datasets/hijest/genre-classification-dataset-imdb
+
+
 TASK 2
-CREDIT CARD FRAUD DETECTION  DATASET CLICK HERE
+CREDIT CARD FRAUD DETECTION  DATASET CLICK HERE-https://www.kaggle.com/datasets/kartik2112/fraud-detection
+
+
 TASK 4
-SPAM SMS DETECTION DATASET CLICK HERE
+SPAM SMS DETECTION DATASET CLICK HERE-https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
 
 
