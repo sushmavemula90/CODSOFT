@@ -1,5 +1,8 @@
 # CODSOFT
 my codsoft internship projects
+Requirements:
+use a code ediltor VS CODE/jupyter notebook
+install extensions python and some ml libraries as used in the programs.
 
 TASK 1
 MOVIE GENRE CLASSIFICATION  DATASET CLICK HERE -https://www.kaggle.com/datasets/hijest/genre-classification-dataset-imdb
